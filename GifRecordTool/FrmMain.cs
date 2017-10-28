@@ -18,9 +18,9 @@ using GIFRecorder;
  */
 namespace GifRecordTool
 {
-    public partial class Form1 : Form
+    public partial class FrmMain : Form
     {
-        public Form1()
+        public FrmMain()
         {
             InitializeComponent();
             this.MaximizeBox = false;

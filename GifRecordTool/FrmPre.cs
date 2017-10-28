@@ -14,7 +14,7 @@ namespace GifRecordTool
         {
             InitializeComponent();
             StartPosition = FormStartPosition.CenterParent;
-            pictureBox1.Image = img;
+            pictureBox.Image = img;
             ClientSize = img.Size;
         }
 
@@ -27,7 +27,7 @@ namespace GifRecordTool
             SaveFileDialog sfd = new SaveFileDialog();
             sfd.Filter = "*.gif|*.gif";
             if (sfd.ShowDialog() == DialogResult.OK) {
-                pictureBox1.Image.Save(sfd.FileName);
+                pictureBox.Image.Save(sfd.FileName);
             }
         }
     }

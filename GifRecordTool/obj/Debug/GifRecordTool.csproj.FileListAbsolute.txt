@@ -18,9 +18,9 @@ C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\bin\Debug\GifRec
 C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\bin\Debug\GIFRecorder.dll
 C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\bin\Debug\GIFRecorder.pdb
 C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.csprojResolveAssemblyReference.cache
-C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.Form1.resources
 C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.FrmHwnd.resources
 C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.FrmPre.resources
 C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.FrmRect.resources
 C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.Properties.Resources.resources
 C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.csproj.GenerateResource.Cache
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.FrmMain.resources
